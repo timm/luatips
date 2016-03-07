@@ -1,6 +1,8 @@
 # Give us this day our daily Lua tip
 
-## What's our next best tip???
+## And our next best tip is...
+
+??
 
 ## Lua as shell command
 
