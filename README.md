@@ -1,4 +1,4 @@
-# Give us this da our daily Lua tip
+# Give us this day our daily Lua tip
 
 ## What's our next best tip???
 
