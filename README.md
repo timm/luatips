@@ -6,7 +6,8 @@
 
 ## Lua as shell command
 
-Add these two lines at the top of your lua source code at the file can be executed by either lua or a unix shell.
+Add these two lines at the top of your lua source code at the  
+file can be executed by either lua or a unix shell.
 
 ```lua
 #!/bin/sh
